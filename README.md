@@ -1,5 +1,5 @@
 # angular-frontend
 
-## Tecnlogias 
+## Tecnologias 
 
--- Angular 12
+- Angular 12
